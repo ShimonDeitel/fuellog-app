@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: FuellogTests
-      - path: Fuellog.storekit
     dependencies:
       - target: Fuellog
     settings:
